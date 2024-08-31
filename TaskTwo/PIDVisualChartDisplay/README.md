@@ -1,4 +1,4 @@
-# For a visual Golang simulation, visit: https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
+# Chart Golang simulation: https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
 
 # To improve
 * I would investigate deeper into methods of tuning such as ziegler nichols method. 
