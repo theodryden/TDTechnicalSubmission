@@ -1,5 +1,5 @@
 # Lessons
-* - Inheritance in c++
+* Inheritance in c++
 - Constructors in c++
 - Building files in c++
 - Compiling files in c++
