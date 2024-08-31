@@ -1,4 +1,4 @@
-# React Chart View
+# Visual Simulation Display View
 https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
 
 # Golang for React Chart View 
