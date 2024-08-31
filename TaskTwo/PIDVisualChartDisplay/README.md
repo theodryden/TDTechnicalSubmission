@@ -1,6 +1,4 @@
-# For a visual chart of the simulation, visit: https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
-
-# This simulation was written in Golang
+# For a visual Golang simulation, visit: https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
 
 # To improve
 * I would investigate deeper into methods of tuning such as ziegler nichols method. 

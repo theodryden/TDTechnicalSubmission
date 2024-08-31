@@ -1,8 +1,6 @@
-# This code is designed to run the PID Controller in terminal
+# This file runs the Golang PID Simulation in terminal
 
 # For a visual chart of the simulation, visit: https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
-
-# This simulation was written in Golang
 
 # To improve
 * I would investigate deeper into methods of tuning such as ziegler nichols method. 
