@@ -4,9 +4,6 @@
 
 using namespace std;
 
-
-
-
 int main() {
   // Vehicle OldBanger("Ford", 4);
   // Aircraft fThirtyFive("Lockheed Martin", 3,"V6",false);
