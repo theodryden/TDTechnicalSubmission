@@ -1,3 +1,9 @@
+# These files contain the Golang code to be run injunction with the React Front End
+* Clone this repository
+* Run this Golang Simulation
+* The data will be sent from the Golang simulator to the React website display
+* (The React listens for data being sent to port: 8080 and displays the data on the standard localhost: 3000)
+
 # Chart Golang simulation: https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
 
 # To improve
