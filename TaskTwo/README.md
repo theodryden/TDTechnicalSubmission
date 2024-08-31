@@ -1,7 +1,7 @@
 # Visual Simulation Display View
 https://github.com/theodryden/TDTechnicalSubmissionFrontEnd
 
-# Golang for React Chart View 
+# Golang Logic For The Simulation 
 https://github.com/theodryden/TDTechnicalSubmission/tree/main/TaskTwo/PIDVisualChartDisplay
 
 # Terminal View
