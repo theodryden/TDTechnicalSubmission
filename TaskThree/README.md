@@ -3,8 +3,9 @@ This project enjoyed usage of multiple AWS services: RDS (Postgresql), EC2 Insta
 
 
 # Setting up EC2 Instance
-AWS -> Launch EC2 Instance -> Download Keypair -> SSH into the EC2 -> Download files onto the server (Python, Postgresql) -> Uploaded the startup_script.py
+AWS -> Launched EC2 Instance -> Download Keypair -> SSH into the EC2 -> Download files onto the server (Python, Postgresql) -> Uploaded the startup_script.py
 ![Screenshot 2024-09-02 at 22 24 45](https://github.com/user-attachments/assets/26dd4f22-74b3-4f47-a417-ad5a09c37ef2)
+![Screenshot 2024-09-02 at 22 49 36](https://github.com/user-attachments/assets/a031aba8-0196-4545-a8e3-b6a1e093c858)
 
 
 # Setting up RDS Database (Postgresql)
